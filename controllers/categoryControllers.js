@@ -1,4 +1,4 @@
-const { text } = require("express");
+
 const database = require("../services/db");
 const db = database.pool;
 
